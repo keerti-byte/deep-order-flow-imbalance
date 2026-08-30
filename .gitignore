@@ -1,0 +1,10 @@
+# Data files
+data/raw/*.txt
+data/raw/*.csv
+data/processed/*.csv
+*.pkl
+
+# Python environments
+env/
+__pycache__/
+*.pyc
